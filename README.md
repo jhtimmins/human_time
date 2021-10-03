@@ -1,4 +1,4 @@
-# human_time
+# Human Time
 Make Python datetime formatting human readable
 
 ```python
